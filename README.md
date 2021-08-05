@@ -1,9 +1,16 @@
-# trinityu
+# WARNING
 
-this work is the work of Hugh Coleman at Trinity University.
+## GITHUB.COM/TRINITYU
 
-Viewing this work may violate the Trinity Honor Code.
+If you're a student **do not view my code.**
+It might be academic dishonesty.
 
-Please contact me at hcolema1@trinity.edu if you have any issues.
+If you're attending Trinity University and trying to copy my work, **don't**.
 
-This organization is to store my projects.
+This org is used to keep projects organized between different devices safely in the cloud.
+
+if you're a professor and have any issues with this org please don't hesitate to contact me.
+
+-hugh
+
+hcolema1@trinity.edu
