@@ -7,7 +7,7 @@ It might be academic dishonesty.
 
 If you're attending Trinity University and trying to copy my work, **don't**.
 
-This org is used to keep projects organized between different devices safely in the cloud.
+This org is used by me to keep projects organized between different devices safely in the cloud.
 
 if you're a professor and have any issues with this org please don't hesitate to contact me.
 
